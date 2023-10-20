@@ -1,6 +1,3 @@
-DOMAIN,us.tqos.truekex.com
-DOMAIN,us.connproxy.truekex.com
-DOMAIN,o428077.ingest.sentry.io
 DOMAIN,global-lobby.nikke-kr.com
 DOMAIN,sg-vas.intlgame.com
 DOMAIN,aws-na-dr.intlgame.com
@@ -12,9 +9,7 @@ DOMAIN,na1.centauriglobal.com
 
 DOMAIN-SUFFIX,iegcom.com
 DOMAIN-SUFFIX,nikke-kr.com
-DOMAIN-SUFFIX,truekex.com
 DOMAIN-SUFFIX,intlgame.com
 DOMAIN-SUFFIX,anticheatexpert.com
 DOMAIN-SUFFIX,gamepass.com
-DOMAIN-SUFFIX,ingest.sentry.io
 DOMAIN-SUFFIX,centauriglobal.com

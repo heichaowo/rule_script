@@ -1,16 +1,16 @@
 DOMAIN,global-lobby.nikke-kr.com
+DOMAIN,cloud.nikke-kr.com
 DOMAIN,sg-vas.intlgame.com
 DOMAIN,aws-na-dr.intlgame.com
+DOMAIN,data-aws-na.intlgame.com
 DOMAIN,down.anticheatexpert.com
 DOMAIN,pc.crashsight-us.iegcom.com
-DOMAIN,data-aws-na.intlgame.com
 DOMAIN,catalog.gamepass.com
-DOMAIN,cloud.nikke-kr.com
 DOMAIN,na1.centauriglobal.com
 
-DOMAIN-SUFFIX,iegcom.com
 DOMAIN-SUFFIX,nikke-kr.com
 DOMAIN-SUFFIX,intlgame.com
+DOMAIN-SUFFIX,iegcom.com
 DOMAIN-SUFFIX,anticheatexpert.com
 DOMAIN-SUFFIX,gamepass.com
 DOMAIN-SUFFIX,centauriglobal.com

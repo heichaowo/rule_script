@@ -1,3 +1,4 @@
 DOMAIN-SUFFIX,joycityglobal.com
 IP-CIDR,162.62.81.178/32
 IP-CIDR,43.133.191.128/32
+IP-ASN,132203 #这是腾讯的asn，可选项

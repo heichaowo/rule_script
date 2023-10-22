@@ -3,15 +3,15 @@ DOMAIN,cloud.nikke-kr.com
 DOMAIN,sg-vas.intlgame.com
 DOMAIN,aws-na-dr.intlgame.com
 DOMAIN,data-aws-na.intlgame.com
-DOMAIN,down.anticheatexpert.com
+DOMAIN,down.anticheatexpert.com #ACE
 DOMAIN,pc.crashsight-us.iegcom.com
-DOMAIN,catalog.gamepass.com
-DOMAIN,na1.centauriglobal.com
+DOMAIN,catalog.gamepass.com #PC NA
+DOMAIN,na1.centauriglobal.com #PC NA
 IP-CIDR,43.152.114.31/32
 
 DOMAIN-SUFFIX,nikke-kr.com
 DOMAIN-SUFFIX,intlgame.com
 DOMAIN-SUFFIX,iegcom.com
-DOMAIN-SUFFIX,anticheatexpert.com
-DOMAIN-SUFFIX,gamepass.com
-DOMAIN-SUFFIX,centauriglobal.com
+DOMAIN-SUFFIX,anticheatexpert.com #ACE
+DOMAIN-SUFFIX,gamepass.com #PC NA
+DOMAIN-SUFFIX,centauriglobal.com #PC NA

@@ -7,8 +7,6 @@ DOMAIN,down.anticheatexpert.com
 DOMAIN,pc.crashsight-us.iegcom.com
 DOMAIN,catalog.gamepass.com
 DOMAIN,na1.centauriglobal.com
-#IP-CIDR,43.152.114.31/32
-#IP-ASN,132203 #这是腾讯的asn，可选项
 
 DOMAIN-SUFFIX,nikke-kr.com
 DOMAIN-SUFFIX,intlgame.com

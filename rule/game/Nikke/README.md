@@ -5,3 +5,6 @@
 # 注释解释
 - ACE：腾讯反作弊
 - PC NA：测试环境为PC端北美服
+
+# 使用
+https://raw.githubusercontent.com/heichaowo/rule_script/main/rule/game/Nikke/Nikke.list

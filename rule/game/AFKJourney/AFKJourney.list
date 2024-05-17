@@ -3,10 +3,10 @@ DOMAIN-SUFFIX,farlightgames.com
 DOMAIN-KEYWORD,farlight
 
 #Akami
-IP-CIDR,8.212.68.112/32,no-resolve
-IP-CIDR,23.52.64.43/32,no-resolve
-IP-CIDR,23.52.64.82/32,no-resolve
-IP-CIDR,184.87.174.43/32,no-resolve
+#IP-CIDR,8.212.68.112/32,no-resolve
+#IP-CIDR,23.52.64.43/32,no-resolve
+#IP-CIDR,23.52.64.82/32,no-resolve
+#IP-CIDR,184.87.174.43/32,no-resolve
 
 #Google Cloud
 IP-CIDR,34.128.180.4/32,no-resolve

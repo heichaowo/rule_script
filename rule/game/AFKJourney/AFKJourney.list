@@ -36,5 +36,6 @@ IP-CIDR,163.181.160.238/32,no-resolve
 IP-CIDR,163.181.166.228/32,no-resolve
 IP-CIDR,163.181.166.243/32,no-resolve
 IP-CIDR,184.85.234.82/32,no-resolve
+IP-CIDR,184.87.174.43/32,no-resolve
 IP-CIDR,192.169.127.101/32,no-resolve
 IP-CIDR,198.11.188.11/32,no-resolve

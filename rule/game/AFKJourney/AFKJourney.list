@@ -1,13 +1,15 @@
 DOMAIN,farlight-psp-global.s3.ap-southeast-1.amazonaws.com
 DOMAIN-SUFFIX,farlightgames.com
 DOMAIN-KEYWORD,farlight
-
-#Akami
+IP-CIDR,184.85.234.82/32,no-resolve
+IP-CIDR,163.181.166.228/32,no-resolve
+IP-CIDR,192.169.127.101/32,no-resolve
 IP-CIDR,8.212.68.112/32,no-resolve
-IP-CIDR,23.52.64.43/32,no-resolve
-IP-CIDR,23.52.64.82/32,no-resolve
-IP-CIDR,184.87.174.43/32,no-resolve
-
-#Google Cloud
-#IP-CIDR,34.128.180.4/32,no-resolve
-#IP-CIDR,34.36.156.91/32,no-resolve
+IP-CIDR,47.246.0.214/32,no-resolve
+IP-CIDR,34.85.192.223/32,no-resolve
+IP-CIDR,34.120.73.6/32,no-resolve
+IP-CIDR,23.206.229.72/32,no-resolve
+IP-CIDR,184.85.234.82/32,no-resolve
+IP-CIDR,163.181.166.228/32,no-resolve
+IP-CIDR,192.169.127.101/32,no-resolve
+IP-CIDR,47.253.43.9/32,no-resolve

@@ -1,2 +1,2 @@
 # PikPak
-🕤 仍在构建
+PikPak_DL.list PikPak的下载域名

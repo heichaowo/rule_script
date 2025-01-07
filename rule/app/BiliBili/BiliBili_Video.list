@@ -1,3 +1,4 @@
 DOMAIN-SUFFIX,bilivideo.cn
 DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,live.bilibili.com
+IP-CIDR,203.107.1.65/32,no-resolve

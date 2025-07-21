@@ -1,2 +1,3 @@
 ||sentry.io^
 ||steamcloud-*.oss-accelerate.aliyuncs.com^
+||oss-acc-allline.aliyuncs.com^

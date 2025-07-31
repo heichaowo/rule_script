@@ -5,3 +5,4 @@ DOMAIN,gz1.dedsec.cc
 DOMAIN,jp2.dedsec.cc
 DOMAIN,hk3.dedsec.cc
 DOMAIN-SUFFIX,tailscale.com
+IP-CIDR,100.64.0.0/10,no-resolve

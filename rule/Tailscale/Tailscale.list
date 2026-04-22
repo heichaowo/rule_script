@@ -7,4 +7,3 @@ DOMAIN,hk3.dedsec.cc
 DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,ts.net
 KEYWORD,tailscale
-IP-CIDR,100.64.0.0/10,no-resolve

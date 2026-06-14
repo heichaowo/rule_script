@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX,wise.com,PROXY
-DOMAIN-SUFFIX,transferwise.com,PROXY
-DOMAIN-SUFFIX,api.wise.com,PROXY
-DOMAIN-SUFFIX,api.transferwise.com,PROXY
+DOMAIN-SUFFIX,wise.com
+DOMAIN-SUFFIX,transferwise.com
+DOMAIN-SUFFIX,api.wise.com
+DOMAIN-SUFFIX,api.transferwise.com

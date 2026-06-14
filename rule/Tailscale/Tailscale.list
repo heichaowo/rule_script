@@ -1,9 +1,9 @@
-DOMAIN,de2.dedsec.cc
-DOMAIN,de5.dedsec.cc
-DOMAIN,hz1.dedsec.cc
-DOMAIN,gz1.dedsec.cc
-DOMAIN,jp2.dedsec.cc
-DOMAIN,hk3.dedsec.cc
+DOMAIN-SUFFIX,de2.dedsec.cc
+DOMAIN-SUFFIX,de5.dedsec.cc
+DOMAIN-SUFFIX,hz1.dedsec.cc
+DOMAIN-SUFFIX,gz1.dedsec.cc
+DOMAIN-SUFFIX,jp2.dedsec.cc
+DOMAIN-SUFFIX,hk3.dedsec.cc
 DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,ts.net
 KEYWORD,tailscale
